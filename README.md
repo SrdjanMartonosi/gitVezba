@@ -1,3 +1,3 @@
 # gitVezba
 
-This repo is used to lern..
+This repo was used to lern..
